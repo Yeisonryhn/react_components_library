@@ -1,0 +1,145 @@
+.letterSpacing {
+    letter-spacing: -0.5px;
+}
+
+.displayBold {
+    font-size: 3.815rem;
+    font-weight: var(--font-weight-800);
+    line-height: 77.45px;
+}
+
+.displayRegular {
+    font-size: 3.815rem;
+    font-weight: var(--font-weight-400);
+    line-height: 67.77px;
+}
+
+.heading1 {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h1-size);
+    line-height: 54px;
+}
+
+.heading2, .heading2Medium {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h2-size);
+    line-height: 44px;
+}
+
+.heading2Medium {
+    font-weight: var(--font-weight-500);
+}
+
+.heading3 {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h3-size);
+    line-height: 38px;
+}
+
+.heading4 {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h4-size);
+    line-height: 32px;
+}
+
+.heading5 {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h5-size);
+    line-height: 28px;
+}
+
+.heading6 {
+    font-weight: var(--font-weight-700);
+    font-size: var(--h6-size);
+    line-height: 22px;
+}
+
+.lead {
+    font-weight: var(--font-weight-700);
+    font-size: 1rem;
+    line-height: 24px;
+}
+
+.bodyRegular {
+    font-weight: var(--font-weight-400);
+    font-size: 1rem;
+    line-height: 22px;
+}
+
+.bodySemibold {
+    font-weight: var(--font-weight-600);
+    font-size: 1rem;
+    line-height: 24px;
+}
+
+.blockquoteRegular {
+    font-weight: var(--font-weight-600);
+    font-size: 1.2rem;
+    line-height: 28px;
+}
+
+.blockquoteLarge {
+    font-weight: var(--font-weight-600);
+    font-size: 1.563rem;
+    line-height: 28px;
+}
+
+.blockquoteHeader {
+    font-weight: var(--font-weight-600);
+    font-size: 2.188rem;
+    line-height: 28px;
+}
+
+.blockquoteMedium {
+    font-weight: var(--font-weight-600);
+    font-size: 1.44rem;
+    line-height: 28px;
+}
+
+.labelLarge {
+    font-weight: var(--font-weight-500);
+    font-size: 1rem;
+    line-height: 24px;
+}
+
+.labelMedium {
+    font-weight: var(--font-weight-500);
+    font-size: 0.8rem;
+    line-height: 16px;
+}
+
+.labelSmall {
+    font-weight: var(--font-weight-500);
+    font-size: 0.69rem;
+    line-height: 12.64px;
+}
+
+.button16Pt {
+    font-weight: var(--font-weight-600);
+    font-size: 1rem;
+    line-height: 24px;
+}
+
+.button14Pt {
+    font-weight: var(--font-weight-600);
+    font-size: 0.875rem;
+    line-height: 24px;
+}
+
+.button12Pt {
+    font-weight: var(--font-weight-600);
+    font-size: 0.8rem;
+    line-height: 24px;
+}
+
+.buttonLarge {
+    font-weight: var(--font-weight-600);
+    font-size: 1rem;
+    line-height: 18.2px;
+}
+
+.buttonSmall {
+    font-weight: var(--font-weight-600);
+    font-size: 0.83rem;
+    line-height: 18.2px;
+}

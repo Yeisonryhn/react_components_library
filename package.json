@@ -1,5 +1,5 @@
 {
-  "name": "react_components",
+  "name": "yeisonryhn_react_components_test",
   "version": "0.2.0",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -11,21 +11,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PerceptionFace/react_components.git"
+    "url": "git+https://github.com/Yeisonryhn/react_components_library.git"
   },
+  "keywords": [
+    "library",
+    "React",
+    "Typescript"
+  ],
+  "author": "Yeison Fuentes <yeisonf15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeisonryhn/react_components_library/issues"
+  },
+  "homepage": "https://github.com/Yeisonryhn/react_components_library#readme",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "engines": {
     "node": ">=18",
     "npm": ">=8"
   },
-  "author": "PLUS TEAM LLC",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PerceptionFace/react_components/issues"
-  },
-  "homepage": "https://github.com/PerceptionFace/react_components#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
