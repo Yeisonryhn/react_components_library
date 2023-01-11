@@ -1,0 +1,32 @@
+.buttonBase {
+    padding: 12px;
+}
+
+.textBase {
+    color: white;
+    margin: 0;
+}
+
+.primary,
+.clean {
+    border: none;
+}
+
+.secondary .textBase, 
+.clean .textBase,
+.primary.disabledButton .textBase {
+    color: var(--purple-main);
+}
+
+.disabledButton {
+    opacity: 0.2;
+}
+
+.primary.disabledButton {
+    background-color: var(--pink-main);
+    opacity: 1;
+}
+
+.primary.disabledButton .textBase {
+    opacity: 0.2;
+}
