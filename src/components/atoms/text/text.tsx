@@ -1,6 +1,7 @@
 import React from 'react';
-//import TextStyles from './text.module.css';
+import TextStyles from './text.module.css';
 import { Texts, Tags, Props } from './text.model';
+//import styled from 'styled-components'
 
 export const tags: Tags = {
   displayBold: 'span',
@@ -33,8 +34,8 @@ const Text = (props: Props) => {
   const type: Texts = props.type;
 
   const classes: string = [
-    /* TextStyles[type],
-    TextStyles.letterSpacing, */
+    TextStyles[type],
+    TextStyles.letterSpacing,
     props.className,
   ].join(' ');
 
