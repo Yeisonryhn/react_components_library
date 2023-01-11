@@ -1,6 +1,6 @@
 {
   "name": "yeisonryhn_react_components_test",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "description": "",
   "main": "dist/cjs/index.cjs",
   "types": "dist/index.d.ts",
@@ -32,6 +32,8 @@
     "npm": ">=8"
   },
   "devDependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.11.4",
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",

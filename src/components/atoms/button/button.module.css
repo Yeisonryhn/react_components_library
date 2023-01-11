@@ -12,7 +12,7 @@
     border: none;
 }
 
-.secondary .textBase, 
+.secondary .textBase,
 .clean .textBase,
 .primary.disabledButton .textBase {
     color: var(--purple-main);

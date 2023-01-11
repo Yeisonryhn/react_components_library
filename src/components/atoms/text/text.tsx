@@ -1,7 +1,6 @@
 import React from 'react';
 import TextStyles from './text.module.css';
 import { Texts, Tags, Props } from './text.model';
-//import styled from 'styled-components'
 
 export const tags: Tags = {
   displayBold: 'span',

@@ -1,4 +1,4 @@
-import { Texts } from 'components/atoms/text/text.model';
+import { Texts } from '../text/text.model';
 
 export type ButtonType = 'primary' | 'clean' | 'secondary' | 'success' | 'stop';
 

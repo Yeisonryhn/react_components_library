@@ -89,8 +89,8 @@ const ButtonPF = (props: ButtonProps): JSX.Element => {
     >
       <Text
         className={`
-    ${ButtonStyles.textBase} 
-    ${classText} 
+    ${ButtonStyles.textBase}
+    ${classText}
   `}
         type={textType}
       >
